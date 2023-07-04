@@ -12,7 +12,7 @@ public class NumberGuessingGame {
 
         int i, guess;
 
-        System.out.println("A number is chosen" + " between 1 to 100." + "Guess the number" + " within 5 trials.");
+        System.out.println("A number is chosen" + " between 1 to 100." + "Guess the number" + " within 8 trials.");
 
         for (i = 0; i < trials; i++) {
 
